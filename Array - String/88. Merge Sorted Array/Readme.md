@@ -23,7 +23,7 @@ Explanation: The arrays we are merging are [1] and [].
 The result of the merge is [1].
 ```
 
-**Example 2:**
+**Example 3:**
 ```
 Input: nums1 = [0], m = 0, nums2 = [1], n = 1
 Output: [1]
@@ -38,5 +38,5 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 * nums2.length == n
 * 0 <= m, n <= 200
 * 1 <= m + n <= 200
-* -109 <= nums1[i], nums2[j] <= 109
+* -10<sup>9</sup> <= nums1[i], nums2[j] <= 10<sup>9</sup>
  

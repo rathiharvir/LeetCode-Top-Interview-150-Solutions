@@ -43,7 +43,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 **Constraints:**
 
-* 1 <= nums.length <= 3 * 10^4
-* -10^4 <= nums[i] <= 10^4
+* 1 <= nums.length <= 3 * 10<sup>24</sup>
+* -10<sup>4</sup> <= nums[i] <= 10<sup>4</sup>
 * nums is sorted in non-decreasing order.
  
